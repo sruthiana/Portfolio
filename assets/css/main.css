@@ -4542,7 +4542,6 @@ input, select, textarea {
 
 /* Nav Panel */
 
-
 		/* ----------------------------- */
 		/* FORCE MENU ICON TOP-RIGHT FIX */
 		/* ----------------------------- */
@@ -4737,11 +4736,11 @@ input, select, textarea {
 	}
 
 	/* Overall design */
-
 	.posts article div:hover {
 	transform: translateY(-5px);
 	}
-		/* ----------------------------- */
+	
+/* ----------------------------- */
 /* ELEGANT FLOATING KEYWORDS     */
 /* ----------------------------- */
 
@@ -4829,6 +4828,8 @@ input, select, textarea {
     animation: floatKeywords 7s ease-in-out infinite;
   }
 }
+
+
 	.certificates-section {
 		max-width: 1200px;
 		margin: 4rem auto;
@@ -5181,3 +5182,4 @@ input, select, textarea {
     padding: 1.3rem;
   }
 }
+
